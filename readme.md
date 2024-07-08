@@ -9,4 +9,6 @@ My name is Bhargav and I'm currently pursuing **Master in Computer Application (
 
 ---
 
->I'm too lazy to make my profile interactive
+```bash
+I'm too lazy to make my profile interactive and my github is totally a mess
+```
