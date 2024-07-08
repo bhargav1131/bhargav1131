@@ -4,5 +4,5 @@ My name is Bhargav and I'm currently pursuing Master in Computer Application (MC
 
 ---
 
-- I'm Currently working on some Flutter projects and learning GoLang side by side
+- I'm Currently working on a Flutter project and learning GoLang side by side
 - I'll also shortly work on a UI/UX case study !
