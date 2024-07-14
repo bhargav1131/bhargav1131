@@ -24,6 +24,10 @@ I am a passionate beginner Flutter developer and UI/UX designer currently pursui
 - **Master of Computer Application(MCA)**
   - Tezpur Central University, Assam
   - _Expected Graduation:_ 2025
+ 
+- **Bachelor of Computer Applications(BCA)**
+   - Gauhati University, Assam
+   - Graduated: 2023
 
 ## Connect with Me
 
