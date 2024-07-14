@@ -1,14 +1,32 @@
-## Hello there
+# Hello, I'm Bhargav Pratim Sharma! 👋
 
-My name is Bhargav and I'm currently pursuing **Master in Computer Application (MCA)** from **Tezpur Central University, Assam**. I'm interested in *UI/UX designing* and *Flutter Development* and actively seeking new opportunities in these domains.
+I am a passionate beginner Flutter developer and UI/UX designer currently pursuing my Master of Computer Application from Tezpur Central University, Assam.
 
----
+## About Me
 
-- I'm Currently working on a Flutter project and learning GoLang side by side
-- I'll also shortly work on a UI/UX case study !
+- 🔭 I’m currently working on improving my Flutter skills and learning more about UI/UX design principles.
+- 🌱 I’m currently learning GO, Flutter techniques and exploring different design tools.
+- 👯 I’m looking to collaborate on Flutter projects and open-source contributions.
+- 💬 Ask me about Flutter, UI/UX design, or anything tech-related! I'm always eager to learn and share knowledge.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhargav1131/)
+- 😄 Pronouns: He/Him
 
----
+## Skills
 
-```bash
-I'm too lazy to make my profile interactive and my github is totally a mess
-```
+- **Languages:** Dart, Go, C++, C, Python
+- **Frameworks/Libraries:** Flutter
+- **Databases:** MySQL, Firebase
+- **Design Tools:** Figma, Penpot
+
+
+## Education
+
+- **Master of Computer Application(MCA)**
+  - Tezpur Central University, Assam
+  - _Expected Graduation:_ 2025
+
+## Connect with Me
+
+- LinkedIn: [Bhargav Pratim Sharma](https://www.linkedin.com/in/bhargav1131/)
+
+Feel free to reach out if you have any questions or just want to connect! Let's learn and grow together in the world of Flutter and UI/UX design.
