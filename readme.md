@@ -3,18 +3,17 @@
 I am a passionate beginner Flutter developer and UI/UX designer currently pursuing my Master of Computer Application from Tezpur Central University, Assam.
 
 ## About Me
-
-- 🔭 I’m currently working on improving my Flutter skills and learning more about UI/UX design principles.
-- 🌱 I’m currently learning GO, Flutter techniques and exploring different design tools.
-- 👯 I’m looking to collaborate on Flutter projects and open-source contributions.
-- 💬 Ask me about Flutter, UI/UX design, or anything tech-related! I'm always eager to learn and share knowledge.
+- 🚀 I’m currently working on my AI-based mock interviewer project and improving my skills in Next.js, Drizzle ORM, and database management.
+- 🌱 I’m exploring advanced Flutter techniques, refining my UI/UX design skills, and learning Java for backend development.
+- 🤝 I’m open to collaborating on full-stack projects, open-source contributions, and innovative tech solutions.
+- 💬 Ask me about Next.js, Java backend development, Flutter, UI/UX design, or anything tech-related! I love learning and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhargav1131/)
 - 😄 Pronouns: He/Him
 
 ## Skills
 
-- **Languages:** Dart, Go, C++, C, Python
-- **Frameworks/Libraries:** Flutter
+- **Languages:** Dart, Go, C++, C, Python, Java, Javascript
+- **Frameworks/Libraries:** Flutter, React , Next.js
 - **Databases:** MySQL, Firebase
 - **Design Tools:** Figma, Penpot
 
@@ -23,10 +22,12 @@ I am a passionate beginner Flutter developer and UI/UX designer currently pursui
 
 - **Master of Computer Application(MCA)**
   - Tezpur Central University, Assam
+  - Grade: 7.9/10
   - _Expected Graduation:_ 2025
  
 - **Bachelor of Computer Applications(BCA)**
    - Gauhati University, Assam
+   - Grade: 9.01/10
    - Graduated: 2023
 
 ## Connect with Me
