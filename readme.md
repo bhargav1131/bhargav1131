@@ -1,6 +1,6 @@
 # Hello, I'm Bhargav Pratim Sharma! 👋
 
-![](https://komarev.com/ghpvc/?username=bhargav1131&color=green)
+![](https://komarev.com/ghpvc/?username=bhargav1131&base=120)
 
 
 I am a passionate software developer currently pursuing my Master of Computer Application(MCA) from Tezpur Central University, Assam. I am actively learning Java for backend development while exploring Next.js, Tailwind CSS, and database management.
